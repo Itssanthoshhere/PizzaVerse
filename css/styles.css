@@ -225,6 +225,11 @@ img {
   top: 0;
 }
 
+/* ADD SHADOW HEADER */
+.shadow-header {
+  box-shadow: 0 4px 16x hsla(353, 100%, 8%, 0.1);
+}
+
 /* HOME */
 .home-container {
   padding-block: 2rem 3rem;
