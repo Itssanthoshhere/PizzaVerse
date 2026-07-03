@@ -2,6 +2,12 @@
 
 A Premium, High-Fidelity Landing Page to Showcase Delicious Pizzas, Ingredients, and Secure Orders.
 
+<div align="center">
+  <a href="https://pizza-verse-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-ff5722?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+</div>
+
 ---
 
 ## 📋 Table of Contents
